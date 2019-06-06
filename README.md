@@ -44,7 +44,7 @@
 
 ### Articles
 
-* TO BE UPDATED
+* [So you want to Onboard a DevOps Practitioner](https://github.com/actionjack/so-you-want-to-onboard-a-devops-engineer) - Guidance on how to make your environment easier to onboard for Web Ops Engineers, SRE's and DevOps Practitioners
 
 ### Books
 
