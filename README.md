@@ -28,6 +28,7 @@
 ## Contents
 
 * [Real World](#real-world)
+  * [Greene Laboratory](#greene-laboratory)
 * [Resources](#resources)
   * [Articles](#articles)
   * [Books](#books)
@@ -37,7 +38,9 @@
 
 ## Real World
 
-* TO BE UPDATED
+### Greene Laboratory
+
+* [Docs](https://github.com/greenelab/onboarding)
 
 
 ## Resources
