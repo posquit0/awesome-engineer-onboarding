@@ -47,7 +47,7 @@
 
 ### Articles
 
-* [So you want to Onboard a DevOps Practitioner](https://github.com/actionjack/so-you-want-to-onboard-a-devops-engineer) - Guidance on how to make your environment easier to onboard for Web Ops Engineers, SRE's and DevOps Practitioners
+* [So you want to Onboard a DevOps Practitioner](https://github.com/actionjack/so-you-want-to-onboard-a-devops-engineer) - Guidance on how to make your environment easier to onboard for Web Ops Engineers, SRE's and DevOps Practitioners.
 
 ### Books
 
@@ -55,7 +55,7 @@
 
 ### Videos
 
-* TO BE UPDATED
+* [GoGaRuCo 2014: Technical Onboarding, Training, and Mentoring](https://www.youtube.com/watch?v=3XfwanJe77s) - About how to make junior engineers into independent and productive members of your engineering team faster and cheaper by outlining a plan for how to onboard engineers effectively.
 
 ### Discussions
 
