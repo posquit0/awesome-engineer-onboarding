@@ -55,7 +55,7 @@
 
 ### Videos
 
-* [GoGaRuCo 2014: Technical Onboarding, Training, and Mentoring](https://www.youtube.com/watch?v=3XfwanJe77s) - About how to make junior engineers into independent and productive members of your engineering team faster and cheaper by outlining a plan for how to onboard engineers effectively.
+* [GoGaRuCo 2014: Technical Onboarding, Training, and Mentoring](https://www.youtube.com/watch?v=3XfwanJe77s) [28:25] - About how to make junior engineers into independent and productive members of your engineering team faster and cheaper by outlining a plan for how to onboard engineers effectively.
 
 ### Discussions
 
