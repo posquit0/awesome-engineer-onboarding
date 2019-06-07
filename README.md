@@ -28,6 +28,7 @@
 ## Contents
 
 * [Real World](#real-world)
+  * [New Relic](#new-relic)
   * [Greene Laboratory](#greene-laboratory)
 * [Resources](#resources)
   * [Articles](#articles)
@@ -37,6 +38,11 @@
 
 
 ## Real World
+
+### New Relic
+
+* Experiences
+  * [7 Proven Best Practices for Onboarding a New Engineer](https://blog.newrelic.com/culture/engineer-onboarding-best-practices/) - *by Rachel Klein*
 
 ### Greene Laboratory
 
