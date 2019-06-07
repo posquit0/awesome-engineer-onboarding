@@ -21,7 +21,7 @@
 
 <br />
 
-**Engineer Onboarding** define how we respond to situations and how we make decisions as a team player. They are about what we hold true, what we consider good, what we consider to be bad. They should influence how evolve and grow Engineering Organization. They are not immutable, always try to refine them. *— Dan, Medium*
+**Engineer Onboarding** is meant to guide new engineers, help them focus on the right tasks, and set expectations to help them be successful at new organization. Onboarding has a high return on investment; the more effort you put in, the better the result.
 
 
 
