@@ -29,6 +29,7 @@
 
 * [Real World](#real-world)
   * [Greene Laboratory](#greene-laboratory)
+  * [Mattermost](#mattermost)
   * [New Relic](#new-relic)
   * [Quora](#quora)
   * [Zappier](#zappier)
@@ -44,6 +45,11 @@
 ### Greene Laboratory
 
 * [Docs](https://github.com/greenelab/onboarding)
+
+### Mattermost
+
+* [Engineer Onboarding Timeline & Expectations](https://docs.mattermost.com/process/engineer-expectations.html)
+* [Docs](https://docs.mattermost.com/process/training.html)
 
 ### New Relic
 
