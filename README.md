@@ -47,12 +47,13 @@
 
 ### New Relic
 
-* Experiences
+* **Experiences**
   * [7 Proven Best Practices for Onboarding a New Engineer](https://blog.newrelic.com/culture/engineer-onboarding-best-practices/) - *by Rachel Klein*
 
 ### Quora
 
 * [What is the on-boarding process for new engineers at Quora?](https://www.quora.com/What-is-the-on-boarding-process-for-new-engineers-at-Quora-Is-there-any-such-process-at-all-Does-Quora-train-their-employees-in-a-fashion-similar-to-Facebook-or-are-they-asked-to-start-writing-code-straight-away)
+* [**Experiences**](https://www.quora.com/What-is-the-onboarding-process-like-for-new-engineers-at-Quora)
 
 ### Zappier
 
