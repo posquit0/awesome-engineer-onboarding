@@ -32,7 +32,7 @@
   * [Mattermost](#mattermost)
   * [New Relic](#new-relic)
   * [Quora](#quora)
-  * [Zappier](#zappier)
+  * [Zapier](#zapier)
 * [Resources](#resources)
   * [Articles](#articles)
   * [Books](#books)
@@ -61,7 +61,7 @@
 * [What is the on-boarding process for new engineers at Quora?](https://www.quora.com/What-is-the-on-boarding-process-for-new-engineers-at-Quora-Is-there-any-such-process-at-all-Does-Quora-train-their-employees-in-a-fashion-similar-to-Facebook-or-are-they-asked-to-start-writing-code-straight-away)
 * [**Experiences**](https://www.quora.com/What-is-the-onboarding-process-like-for-new-engineers-at-Quora)
 
-### Zappier
+### Zapier
 
 * [How We Onboard New Engineers at Zapier](https://zapier.com/engineering/engineer-onboarding/)
 
