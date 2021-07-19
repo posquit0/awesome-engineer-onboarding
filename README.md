@@ -70,6 +70,7 @@
 ### Articles
 
 * [So you want to Onboard a DevOps Practitioner](https://github.com/actionjack/so-you-want-to-onboard-a-devops-engineer) - Guidance on how to make your environment easier to onboard for Web Ops Engineers, SRE's and DevOps Practitioners.
+* [The Ultimate Guide to Onboarding New Developers: Industry Best Practices and How to Plan the First 90 Days](https://codesubmit.io/blog/guide-to-onboarding-developers/) - Onboarding new hires requires taking their perspective into account and designing the best possible experience to get your new teammate assimilated and contributing as quickly as possible. 
 
 ### Books
 
